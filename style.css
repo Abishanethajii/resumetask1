@@ -1,0 +1,19 @@
+.color{
+color:grey;}
+#center{
+	text-align:center;
+}
+button{
+	background-color:black;
+	color:white;
+	border:1px solid white;
+	padding: 10px 30px;
+}
+.border{
+	border-left-style:solid;
+	border-color: grey;
+}
+#margin{
+	margin:8px;
+}
+	
